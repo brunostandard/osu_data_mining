@@ -115,9 +115,9 @@ In this section I describe what each `.py` files does.
 
 (3) We can only make 60 requests per minute. I added a time.sleep(1.5) to slow our requests.  
 
-Here's a flow chat for the above scripts and files. 
-![](flow.jpg)
-Note that `problems.txt` holds all the players we could make requests to. 
+Here's a flow chat for the above scripts and files. Note that `problems.txt` holds all the players we could make requests to.
+
+![](flow.jpg) 
 
 
 
